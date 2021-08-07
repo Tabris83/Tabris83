@@ -5,8 +5,8 @@
 ![Twitch Status](https://img.shields.io/twitch/status/twitching_astronaut?color=%20%236441a5&logo=twitch&style=for-the-badge)
 <!-- ![Discord](https://discord-md-badge.vercel.app/api/shield/Twitching_astronaut#0151&style=for-the-badge) -->
 <!-- ![https://www.hackthebox.eu/badge/image/665072](https://www.hackthebox.eu/home/users/profile/665072) -->
-<script src="https://www.hackthebox.eu/badge/665072"></script>
-<script src="https://tryhackme.com/badge/579097"></script>
+<img src="https://www.hackthebox.eu/badge/image/665072"><a href="https://www.hackthebox.eu/home/users/profile/665072"></a></img>
+<img src="https://tryhackme-badges.s3.amazonaws.com/tabris.png"><a href="https://tryhackme.com/p/tabris"></a></img>
 <!-- ![https://tryhackme.com/badge/579097](https://tryhackme.com/badge/579097)<br> -->
 ![atom](https://img.shields.io/badge/Built%20With-Atom-green?style=for-the-badge&logo=atom)<br>
 [![Tabris83's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabris83&theme=merko&show_icons=true)](https://github.com/Tabris83)<br>
